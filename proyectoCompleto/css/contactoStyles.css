@@ -1,4 +1,15 @@
 
+
+*{
+    background-color: #000000;
+}
+body {
+    background-color: #000000;
+  }
+  main {
+    padding-top: 5rem;
+  }
+
   
   .container {
    
